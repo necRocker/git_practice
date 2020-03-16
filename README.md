@@ -1,3 +1,2 @@
 # git_practice
-# git_practice
-# git_practice
+Use this repository for testing purposes
